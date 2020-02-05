@@ -1,0 +1,10 @@
+Sale{date=Tue Dec 17 15:00:04 EET 2019, idShow='2', nbTickets=2, seats=[Seat{place=1, price=30.0}, Seat{place=10, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:04 EET 2019, idShow='1', nbTickets=2, seats=[Seat{place=2, price=30.0}, Seat{place=10, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:05 EET 2019, idShow='2', nbTickets=2, seats=[Seat{place=3, price=30.0}, Seat{place=4, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:05 EET 2019, idShow='4', nbTickets=2, seats=[Seat{place=4, price=30.0}, Seat{place=6, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:05 EET 2019, idShow='2', nbTickets=2, seats=[Seat{place=2, price=30.0}, Seat{place=8, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:05 EET 2019, idShow='3', nbTickets=2, seats=[Seat{place=8, price=30.0}, Seat{place=10, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:05 EET 2019, idShow='2', nbTickets=2, seats=[Seat{place=5, price=30.0}, Seat{place=9, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:05 EET 2019, idShow='3', nbTickets=2, seats=[Seat{place=1, price=30.0}, Seat{place=7, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:05 EET 2019, idShow='1', nbTickets=2, seats=[Seat{place=5, price=30.0}, Seat{place=6, price=30.0}]}
+Sale{date=Tue Dec 17 15:00:05 EET 2019, idShow='1', nbTickets=2, seats=[Seat{place=4, price=30.0}, Seat{place=9, price=30.0}]}

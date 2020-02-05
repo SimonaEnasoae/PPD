@@ -1,0 +1,2 @@
+﻿lab0.obj : error LNK2019: unresolved external symbol __imp__xlCreateBookW referenced in function _main
+C:\Users\Simona\Desktop\An 3\PPD\labs\c++\lab0\Debug\lab0.exe : fatal error LNK1120: 1 unresolved externals

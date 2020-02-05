@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  utils.cpp
+  V1.cpp
+  V2.cpp
+c:\users\simona\source\repos\v2msi-lab6\v2msi-lab6\v2.cpp(16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\simona\source\repos\v2msi-lab6\v2msi-lab6\v2.cpp(68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  v2msi-lab6.cpp
+  Generating code
+  All 157 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  v2msi-lab6.vcxproj -> C:\Users\Simona\source\repos\v2msi-lab6\x64\Release\v2msi-lab6.exe
